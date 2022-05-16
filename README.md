@@ -1,3 +1,3 @@
 # mobile-mandarin-app
-this is project app school
+This project is a school assignment - 
 made in React Native
